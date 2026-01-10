@@ -24,6 +24,14 @@ We do not sell, rent, or share user data for advertising or marketing purposes.
 Data entered into the App is primarily processed on the user's device.  
 Quitters Club does not use user data for profiling, advertising, or commercial resale.
 
+## Notifications
+The app may request permission to send local notifications.
+Notifications are used only for motivational reminders and
+smoke-free progress check-ins generated within the app.
+All notification scheduling and data processing occur on your device.
+We do not share notification data with third parties.
+You can turn off notifications anytime in your device settings.
+
 ## Third-Party Services
 
 Quitters Club does not use third-party services for advertising or user profiling.  
